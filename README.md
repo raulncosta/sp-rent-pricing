@@ -12,7 +12,7 @@ The Sao Paulo Rent Price Prediction project applies data science techniques to p
 LightGBM was used, a gradient boosting algorithm, known for its efficiency, accuracy, and scalability.
 
 ## Technologies Used
-- Python
+- Python 3.11.4
 - Pandas for data manipulation
 - Seaborn and Matplotlib for visualization
 - LightGBM for predictive modeling
